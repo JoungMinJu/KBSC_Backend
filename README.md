@@ -17,7 +17,7 @@
 ## 개발 환경
 
 ### 기술 구조도
-![image](https://user-images.githubusercontent.com/81295661/197401655-110bf949-6538-4f01-9824-1c9aee121ed0.png)
+![image](https://user-images.githubusercontent.com/81295661/212852952-baff8063-6326-4340-b2c2-175175551c6f.png)
 
 <br> <br>
 
